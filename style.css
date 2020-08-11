@@ -1,0 +1,35 @@
+
+h1{
+
+    color:#FF0000;
+}
+/**{
+    border:solid;
+}*/
+.heading{
+    background-color: #f54281;
+    display: flex;
+    justify-content:space-evenly;
+}
+.content{
+    background-color:#42daf5;
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+    border:dashed 2px;
+}
+h2,p{
+    text-align: center;
+    
+    font-style:italic;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+body{
+    background-color:#808080
+    
+}
